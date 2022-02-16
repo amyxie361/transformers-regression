@@ -16,13 +16,13 @@ limitations under the License.
 # Regression Free Model Update
 
 Code for the paper:
-Regression Bugs Are In Your Model! Measuring, Reducing and Analyzing Regressions In NLP Model Updates [paper](https://arxiv.org/abs/2105.03048)
+Regression Bugs Are In Your Model! Measuring, Reducing and Analyzing Regressions In NLP Model Updates [[Paper]](https://arxiv.org/abs/2105.03048)
 
-Modified from the Hugging Face Transformers examples of text-classification. (original code)[https://github.com/huggingface/transformers/tree/master/examples/pytorch/text-classification]
+Modified from the Hugging Face Transformers examples of text-classification. [[Original code]](https://github.com/huggingface/transformers/tree/master/examples/pytorch/text-classification)
 
 Haven't tested under this environment, and document needs completion.
 
-If you have any question, please contact me through [email](amyxie361@outlook.com)
+If you have any question, please contact me through email:amyxie361@outlook.com
 
 # Text classification examples
 
